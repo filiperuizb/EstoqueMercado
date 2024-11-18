@@ -1,0 +1,7 @@
+Ler arquivo texto
+Neste arquivo texto
+O gerente vai ter um arquivo cpp pra ele logar e inserir esses produtos e fazer alterações
+O usuario vai ter um arquivo cpp para ele poder realizar compras baseadas nesse texto
+condição: Armazenar produtos e preços em uma matriz antes de fazer a operação com o usuário!
+
+-> 3 matrizes | nome, preco, qntEstoque
